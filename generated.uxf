@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>0</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test6
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>0</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test1
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>400</x>
+      <y>0</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test4
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>600</x>
+      <y>0</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test5
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>350</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test3
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>350</y>
+      <w>100</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>test2
+--
+position:int
+--
+doSomething() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>90</x>
+      <y>475</y>
+      <w>120</w>
+      <h>0</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;..
+m1=*
+m2=1
+</panel_attributes>
+    <additional_attributes>10.0;10.0;110.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>90</x>
+      <y>125</y>
+      <w>320</w>
+      <h>0</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=*
+m2=1
+</panel_attributes>
+    <additional_attributes>10.0;10.0;310.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>90</x>
+      <y>125</y>
+      <w>520</w>
+      <h>0</h>
+    </coordinates>
+    <panel_attributes>lt=..&gt;
+m1=*
+m2=1
+</panel_attributes>
+    <additional_attributes>510.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>290</x>
+      <y>125</y>
+      <w>-80</w>
+      <h>350</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-&gt;
+m1=1
+m2=0..1
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;360.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>90</x>
+      <y>125</y>
+      <w>320</w>
+      <h>350</h>
+    </coordinates>
+    <panel_attributes>lt=..&gt;
+m1=*
+m2=1
+</panel_attributes>
+    <additional_attributes>10.0;360.0;310.0;10.0</additional_attributes>
+  </element>
+</diagram>
